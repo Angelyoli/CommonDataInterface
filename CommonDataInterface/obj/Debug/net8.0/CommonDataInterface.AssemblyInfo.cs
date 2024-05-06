@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommonDataInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+221398c937f54409c24da1d287f4be97a62220d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommonDataInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommonDataInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
